@@ -12,11 +12,11 @@
 2. Navigate to `http://localhost/admin/` and log in with superuser (Username & password is **django**).
 3. Connect to Postgres database.
 
-Database credentials:
-Name: django
-Host: localhost
-Port: 5432
-User: django
+Database credentials:  
+Name: django  
+Host: localhost  
+Port: 5432  
+User: django  
 Password: django
 
 Connect with **psql** command:
