@@ -6,7 +6,7 @@
 4. Updated django database settings in settings.py file, to use local Postgres database and set `CONN_MAX_AGE` to `3600`.
 5. Added `STATIC_ROOT = BASE_DIR / 'static'` in settings.py.
 
-# Setup project using docker-compose
+## Setup project using docker-compose
 
 1. In the root project directory use the `docker-compose up` command to spin up services.
 2. Navigate to `http://localhost/admin/` and log in with superuser (Username & password is **django**).
