@@ -1,0 +1,11 @@
+# django
+# https://www.djangoproject.com/weblog/
+Django==4.0.2
+
+# database
+# https://github.com/psycopg/psycopg2/
+psycopg2==2.9.3
+
+# ASGI
+# https://github.com/encode/uvicorn
+uvicorn[standard]==0.17.4
