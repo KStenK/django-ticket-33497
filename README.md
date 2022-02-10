@@ -1,4 +1,4 @@
-## Steps I took to reproduce this bug
+## Steps I took to generate the Django project
 
 1. Made a new project by command `django-admin startproject django_33497`.
 2. Set `Debug = False` in settings.py.
